@@ -1,0 +1,21 @@
+Requirements:
+
+i. Obtain inputs from the user for defining the displacement curve over one revolution of the cam. 
+This requires the number of motion segments, the angular range for each segment, and the type of motion for each segment. 
+Note that the number of segments is variable.
+
+ii. Display the displacement graph.
+
+iii. Obtain inputs from the user for the radius of the base circle and the radius of the follower.
+
+iv. Generate the cam profile, display it together with the base circle and the follower. 
+Your display only needs to be in 2D.
+
+v. Create an animation showing the cam in rotation with the follower moving accordingly.
+To create the animation, you also need the speed of rotation of the cam.
+
+vi. For testing purposes, you need to provide a data file that contains the input data required for the definition of a cam system. 
+When the data is read in by your program, the displacement curve and the cam system are displayed.
+
+vii. Make sure that upon the execution with one set of data, your program pauses for the user to examine the output. 
+Only upon a user command that the program moves on to the next set of data.
